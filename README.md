@@ -1,5 +1,5 @@
 # Processor-like ALU
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-2017-%23DAE1F2) 
+
 ## Overview
 This project implements a configurable arithmetic logic unit (ALU) with multiple operations selectable via a 16-bit instruction input. It processes two 8-bit data inputs and produces four 8-bit outputs, along with status flags.
 
